@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tyro1249
+- 👋 Hi, I’m Irfanul Arefin.
 - 👀 I’m interested in all the creative stuffs, like to do research on various fields, such as- Robotics, PCB Designing, basic Electronics based Projects,IoT, Coding and so on
 - 🌱 I’m currently learning Python strongly, have plans to learn ML in the future. I also want to extend my learning further on embedded C, RoS, STM32 based platdorm and so on
 - 💞️ I’m looking to collaborate on numerous projects and ideas that might interst others to contribute in the field of IoT, embedded system, algorithm and many more.
